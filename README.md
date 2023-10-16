@@ -1,1 +1,2 @@
 # SimpleAudioVisualizer
+download and run
